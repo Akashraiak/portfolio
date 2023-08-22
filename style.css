@@ -1,0 +1,11 @@
+html{
+    text-align: center;
+    align-content: center;
+}
+title{
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    flex-wrap: wrap;
+}
